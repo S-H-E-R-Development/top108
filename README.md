@@ -1,5 +1,5 @@
 # Top108.Web.App  || OPEN SOURCE || 
-[Contributor Guide](#contributor-guide)
+[Contributor Guide](#contributor-guide)   _    [top108.web.app](https://top108.web.app/) 
 
 ## Overview
 
@@ -102,7 +102,6 @@ Clear community guidelines are established to ensure a positive and inclusive en
 
 For inquiries, feedback, or support, please reach out to the Society of Humanity Education and Research through the following contact:
 
-- **Email:** [info@humanityeducation.org](mailto:info@humanityeducation.org)
-- **Phone:** +[Your Phone Number]
+- **Email:** rajkumarverma70790@gmail.com 
 
-Thank you for being a part of the top108.web.app community! Happy exploring and contributing! 🚀🌐
+Thank you for being a part of the [top108.web.app](https://top108.web.app/) community! Happy exploring and contributing! 
