@@ -1,5 +1,5 @@
 # Top108.Web.App  || OPEN SOURCE || 
-[Contributor Guide](#contributor-guide)   _    [top108.web.app](https://top108.web.app/) 
+[Contributor Guide](#contributor-guide) . . . . .    [top108.web.app](https://top108.web.app/) . . . . <a href = "https://www.linkedin.com/company/98176407/admin/feed/posts/"> LinkedIn </a>
 
 ## Overview
 
