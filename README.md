@@ -86,6 +86,11 @@ The source code for top108.web.app is hosted on [GitHub](https://github.com/S-H-
 
 ### How to Contribute
 
+        git clone https://github.com/S-H-E-R-Development/top108.git
+        flutter pub get
+        flutter run
+        
+
 Detailed guidelines on how to contribute to the open-source project are provided. This includes submitting bug reports, feature requests, and code contributions.
 
 ## Community
