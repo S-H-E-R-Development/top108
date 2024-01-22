@@ -76,6 +76,12 @@ For those interested in contributing to the platform's development, detailed ins
 
 ### Contribution Workflow
 
+
+        git clone https://github.com/S-H-E-R-Development/top108.git
+        flutter pub get
+        flutter run
+
+     
 The contribution workflow outlines the steps to follow when submitting changes or new features. Contributors are encouraged to adhere to coding standards and participate in the code review process.
 
 ## Open Source
