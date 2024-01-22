@@ -1,0 +1,92 @@
+  double stripPosition = 0.0;
+  final double stripWidth = 20.0;
+  final Color stripColor = Colors.red;
+  final double animationSpeed = 1.0;
+
+  @override
+  void initState() {
+    super.initState();
+    startAnimation();
+  }
+
+  void startAnimation() {
+    Future.delayed(Duration(milliseconds: 16), () {
+      setState(() {
+        stripPosition += animationSpeed;
+        if (stripPosition > MediaQuery.of(context).size.width) {
+          stripPosition = -stripWidth;
+        }
+      });
+      startAnimation();
+    });
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  int colorIndex = 0;
+  List<Color> colors = [
+    Color.fromARGB(255, 253, 254, 254),
+    Colors.green,
+    Colors.blue,
+    // Add more colors as needed
+  ];
+
+  @override
+  void initState() {
+    super.initState();
+    startColorAnimation();
+  }
+
+  void startColorAnimation() {
+    Future.delayed(Duration(milliseconds: 500), () {
+      setState(() {
+        colorIndex = (colorIndex + 1) % colors.length;
+      });
+      startColorAnimation();
+    });
+  }
+
+
+
+
+
+
+
+
+
+
+
+Listview.builder
+
+
+
+
+SizedBox(
+                          height: 450,
+                          child: Scaffold(
+                            body: ListView.builder(
+                              itemCount: 100,
+                              itemBuilder: (context, index) => TextButton(
+                                  onPressed: () {},
+                                  child: Text("Non -IT-Button $index")),
+                            ),
+                          ),
+
+

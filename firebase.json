@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "top108",
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
