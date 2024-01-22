@@ -7,7 +7,8 @@
 
 Welcome to the documentation for top108.web.app, a platform dedicated to providing updates on internships, job opportunities, and competitions from the top 108 companies. This documentation aims to guide users, volunteers, and contributors through the platform's features, functionalities, and the process of contributing to its development.
 
-<img src="https://github.com/S-H-E-R-Development/top108/assets/112231455/c1aaa7d7-9f82-4d60-9d3a-2629d71fb1ca" alt="icon-512" width="120" height="120" style = "align-items: center;">
+<img width="962" alt="image" src="https://github.com/S-H-E-R-Development/top108/assets/112231455/0c297bca-d344-4a45-bfef-37878f7ba556">
+
 
 
 
