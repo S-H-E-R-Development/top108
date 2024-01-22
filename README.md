@@ -1,5 +1,5 @@
 # Top108.Web.App  || OPEN SOURCE || 
-[Contributor Guide](#contributor-guide) . . . . .    [top108.web.app](https://top108.web.app/) . . . . <a href = "https://www.linkedin.com/company/98176407/admin/feed/posts/"> LinkedIn </a>
+[Contributor Guide](#contributor-guide) . . . . .    [top108.web.app](https://top108.web.app/) . . . . <a href = "https://www.linkedin.com/company/98176407/admin/feed/posts/"> LinkedIn </a> . . . . [GitHub](https://github.com/S-H-E-R-Development/top108/tree/main)
 
 ## Overview
 
@@ -82,7 +82,7 @@ The contribution workflow outlines the steps to follow when submitting changes o
 
 ### Source Code Repository
 
-The source code for top108.web.app is hosted on [GitHub](https://github.com/top108/web-app). Contributors can access the repository to review code, submit issues, and contribute to ongoing projects.
+The source code for top108.web.app is hosted on [GitHub](https://github.com/S-H-E-R-Development/top108/tree/main). Contributors can access the repository to review code, submit issues, and contribute to ongoing projects.
 
 ### How to Contribute
 
